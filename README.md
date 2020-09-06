@@ -21,3 +21,4 @@
 ![True](https://user-images.githubusercontent.com/70091044/92335319-baefd400-f09e-11ea-963c-0db32dbdd1be.PNG)
 ##If...Else statement
 ### The If...else statement checks a condation. If resolves to true the first code block is executer. If the condation resolves to false the second code block is run instead.
+![if else](https://user-images.githubusercontent.com/70091044/92335404-4a958280-f09f-11ea-8ca7-ac662e95efa0.PNG)
