@@ -24,3 +24,10 @@
 ![if else](https://user-images.githubusercontent.com/70091044/92335404-4a958280-f09f-11ea-8ca7-ac662e95efa0.PNG)
 ## Switch statements
 ![Switch](https://user-images.githubusercontent.com/70091044/92381463-94b84b80-f113-11ea-83fc-80541ec8d6b0.PNG)
+## Loops
+### Loops checks a condition. If it returns, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false. There are three common types of loops:
+### 1. FOR: If you need to run code a specific number of times,use a *for* loops.
+### 2. While: If you not know how many times the code should run, you can use a *while* loop.
+
+## Loop counters
+### A for loop uses a counter as a condition. This instructs the code to run a specified number of times.
