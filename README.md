@@ -31,3 +31,4 @@
 ![loops](https://user-images.githubusercontent.com/70091044/92381755-190ace80-f114-11ea-92a8-a563e043d480.PNG)
 ## Loop counters
 ### A for loop uses a counter as a condition. This instructs the code to run a specified number of times.
+![counter](https://user-images.githubusercontent.com/70091044/92381934-5f602d80-f114-11ea-900a-c4bf5e30cc07.PNG)
